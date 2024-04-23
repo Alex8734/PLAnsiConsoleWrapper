@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BzVql7DQz3lXlp6vxdxEqYSC4nnKODGdVaDNNgV+zdJJNgP33bfsAoHkk3H0KezHrpg8NT9dwbrTNW78VtqOpw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aresc\\source\\repos\\LinuxAnsiConsoleWrapper\\LinuxAnsiConsoleWrapper\\LinuxAnsiConsoleWrapper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aresc\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.1\\microsoft.net.illink.tasks.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

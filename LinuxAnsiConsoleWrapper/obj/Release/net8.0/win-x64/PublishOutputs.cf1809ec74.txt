@@ -1,0 +1,2 @@
+C:\Users\aresc\source\repos\LinuxAnsiConsoleWrapper\LinuxAnsiConsoleWrapper\bin\Release\net8.0\win-x64\publish\LinuxAnsiConsoleWrapper.pdb
+C:\Users\aresc\source\repos\LinuxAnsiConsoleWrapper\LinuxAnsiConsoleWrapper\bin\Release\net8.0\win-x64\publish\LinuxAnsiConsoleWrapper.exe

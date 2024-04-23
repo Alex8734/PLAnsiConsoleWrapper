@@ -1,0 +1,14 @@
+C:\Users\aresc\source\repos\LinuxAnsiConsoleWrapper\LinuxAnsiConsoleWrapper\bin\Debug\net8.0\LinuxAnsiConsoleWrapper.exe
+C:\Users\aresc\source\repos\LinuxAnsiConsoleWrapper\LinuxAnsiConsoleWrapper\bin\Debug\net8.0\LinuxAnsiConsoleWrapper.deps.json
+C:\Users\aresc\source\repos\LinuxAnsiConsoleWrapper\LinuxAnsiConsoleWrapper\bin\Debug\net8.0\LinuxAnsiConsoleWrapper.runtimeconfig.json
+C:\Users\aresc\source\repos\LinuxAnsiConsoleWrapper\LinuxAnsiConsoleWrapper\bin\Debug\net8.0\LinuxAnsiConsoleWrapper.dll
+C:\Users\aresc\source\repos\LinuxAnsiConsoleWrapper\LinuxAnsiConsoleWrapper\bin\Debug\net8.0\LinuxAnsiConsoleWrapper.pdb
+C:\Users\aresc\source\repos\LinuxAnsiConsoleWrapper\LinuxAnsiConsoleWrapper\obj\Debug\net8.0\LinuxAnsiConsoleWrapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aresc\source\repos\LinuxAnsiConsoleWrapper\LinuxAnsiConsoleWrapper\obj\Debug\net8.0\LinuxAnsiConsoleWrapper.AssemblyInfoInputs.cache
+C:\Users\aresc\source\repos\LinuxAnsiConsoleWrapper\LinuxAnsiConsoleWrapper\obj\Debug\net8.0\LinuxAnsiConsoleWrapper.AssemblyInfo.cs
+C:\Users\aresc\source\repos\LinuxAnsiConsoleWrapper\LinuxAnsiConsoleWrapper\obj\Debug\net8.0\LinuxAnsiConsoleWrapper.csproj.CoreCompileInputs.cache
+C:\Users\aresc\source\repos\LinuxAnsiConsoleWrapper\LinuxAnsiConsoleWrapper\obj\Debug\net8.0\LinuxAnsiConsoleWrapper.dll
+C:\Users\aresc\source\repos\LinuxAnsiConsoleWrapper\LinuxAnsiConsoleWrapper\obj\Debug\net8.0\refint\LinuxAnsiConsoleWrapper.dll
+C:\Users\aresc\source\repos\LinuxAnsiConsoleWrapper\LinuxAnsiConsoleWrapper\obj\Debug\net8.0\LinuxAnsiConsoleWrapper.pdb
+C:\Users\aresc\source\repos\LinuxAnsiConsoleWrapper\LinuxAnsiConsoleWrapper\obj\Debug\net8.0\LinuxAnsiConsoleWrapper.genruntimeconfig.cache
+C:\Users\aresc\source\repos\LinuxAnsiConsoleWrapper\LinuxAnsiConsoleWrapper\obj\Debug\net8.0\ref\LinuxAnsiConsoleWrapper.dll
